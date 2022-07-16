@@ -17,7 +17,7 @@ Note: Make a search, find more G lists you can use.
 <pre>
 1. clone with git clone [ repository name ] 
 2. install requirements.txt
-3. python [ FileName.py ] 
+3. python3 [ FileName.py ] 
 4. Happy dorking.
 </pre>
 
