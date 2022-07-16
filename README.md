@@ -23,7 +23,7 @@ Note: Make a search, find more G lists you can use.
 
 # Note
 This code only tested on kali machine with no problems.</br>
-With the right time, i will add to it more options.</br>
-Remember: use it for EDUCATION PURPOSE only!<br>
+With the right time, i will add to it more options for better searching.</br>
+Remember: USE IT FOR EDUCATION PURPOSE ONLY!<br>
 
 ![צילום מסך 2022-07-16 221720](https://user-images.githubusercontent.com/90532971/179369098-dfded351-fda7-432c-8753-71baf5513286.png)
