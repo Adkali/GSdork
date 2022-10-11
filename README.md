@@ -1,5 +1,5 @@
 # GSdork
-A Google dorking program for searching inside google with the dorking method, retrieves links back to you. Google is the encyclopedia of the internet as we already know, and many of us using it on hour day, so why now using the dorking way? Before i made this program, i wanted to practice on my bs skils, than from here i decided to make a little dorking-search for google dorking. Using the special operators, you can make searching easy with better results.
+A Google dorking program for searching inside google with the dorking method, retrieves links back to you. Google is the encyclopedia of the internet as we already know, and many of us using it on our day, so why now using the dorking way? Before i made this program, i wanted to practice on my bs skils, than from here i decided to make a little dorking-search for google dorking. Using the special operators, you can make searching easy with better results.
 <br>
 <br>
 ![ezgif-1-2df3c321a8](https://user-images.githubusercontent.com/90532971/179369206-7b841df4-5cbb-4345-a451-24123e33b4a3.gif)
