@@ -3,6 +3,9 @@ A Google dorking program for searching inside google with the dorking method, re
 <br>
 <br>
 ![ezgif-1-2df3c321a8](https://user-images.githubusercontent.com/90532971/179369206-7b841df4-5cbb-4345-a451-24123e33b4a3.gif)
+<br>
+![2](https://user-images.githubusercontent.com/90532971/213566857-2b2c8552-2eca-4fa8-a0e8-ff774ed90cba.png)
+
 # Google Operators Examples( Not all ):
 <pre>
 1. site:exmaple.com filetype:pdf <b>[ Filetype looks for the type of file you want inside the site you spesificed ]</b>
@@ -25,5 +28,8 @@ Note: Make a search, find more G lists you can use.
 This code only tested on kali machine with no problems.</br>
 With the right time, i will add to it more options for better searching.</br>
 Remember: USE IT FOR EDUCATION PURPOSE ONLY!<br>
+
+# Updates
+19/1 - code improvement using threads and more querys.<br>
 
 ![צילום מסך 2022-07-16 221720](https://user-images.githubusercontent.com/90532971/179369098-dfded351-fda7-432c-8753-71baf5513286.png)
