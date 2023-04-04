@@ -1,10 +1,10 @@
 # GSdork
-A Google dorking program for searching inside google with the dorking method, retrieves links back to you. Google is the encyclopedia of the internet as we already know, and many of us using it on our day, so why now using the dorking way? Before i made this program, i wanted to practice on my bs skils, than from here i decided to make a little dorking-search for google dorking. Using the special operators, you can make searching easy with better results.
+A Google dorking program for searching inside google with the dorking method, retrieves links back to you. Google is the encyclopedia of the internet as we already know, and many of us using it on our day, so why now using the dorking way? Before i made this program, i wanted to practice on my bs skils, than from here i decided to make a little dorking-search for google dorking. Using the special operators, you can make searching easy with better results. Gsdork is designed to automate the process of performing Google dorking searches By providing search terms and special operators. the program generates complex search queries that are sent to Google, and The results are then analyzed and filtered, presenting the user with relevant links and information.
 <br>
 <br>
-![ezgif-1-2df3c321a8](https://user-images.githubusercontent.com/90532971/179369206-7b841df4-5cbb-4345-a451-24123e33b4a3.gif)
+<img src="https://user-images.githubusercontent.com/90532971/179369206-7b841df4-5cbb-4345-a451-24123e33b4a3.gif" width="600" height="300">
 <br>
-![2](https://user-images.githubusercontent.com/90532971/213566857-2b2c8552-2eca-4fa8-a0e8-ff774ed90cba.png)
+<img src="https://user-images.githubusercontent.com/90532971/213566857-2b2c8552-2eca-4fa8-a0e8-ff774ed90cba.png" width="600" height="300">
 
 # Google Operators Examples:
 <pre>
