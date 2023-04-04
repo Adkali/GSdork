@@ -6,14 +6,23 @@ A Google dorking program for searching inside google with the dorking method, re
 <br>
 ![2](https://user-images.githubusercontent.com/90532971/213566857-2b2c8552-2eca-4fa8-a0e8-ff774ed90cba.png)
 
-# Google Operators Examples( Not all ):
+# Google Operators Examples:
 <pre>
 1. site:exmaple.com filetype:pdf <b>[ Filetype looks for the type of file you want inside the site you spesificed ]</b>
+
 2. inurl:[cyber] inbody:threat <b>[ search for URLs that contain a specified keyword ]</b>
+
 3. passwords filetype:docx site:example.com <b>[ look for password docx file with all listed url  for the specified site )</b>
+
 4. allintext:hacking <b>[ Search for spesific text inside webpage ]</b>
+
 5. how to * website <b>[ '*' used to search pages contains anything before your word ]</b>
+
 6. allintext:username filetype:log <b>[ This parameter searches for user-specified text in a webpage ]</b>
+
+7. intitle:index of django/admin site:.* <b>[ Pages containing login portals ]</b>
+
+8. intext:"#mysql dump" filetype:sql <b>[ intext:"#mysql dump" filetype:sql ]</b>
 </pre>
 Note: Make a search, find more G lists you can use.
 # Usage:
@@ -25,9 +34,7 @@ Note: Make a search, find more G lists you can use.
 </pre>
 
 # Note
-This code only tested on kali machine with no problems.</br>
-With the right time, i will add to it more options for better searching.</br>
-Remember: USE IT FOR EDUCATION PURPOSE ONLY!<br>
+Please be advised that this code has only been tested on a Kali machine and no issues were encountered during the testing phase. Given the appropriate timeline, I intend to incorporate additional features to enhance its searching capabilities. Kindly note that this code is intended for educational purposes only and should not be used for any other purpose.
 
 # Updates
 19/1 - code improvement using threads and more querys.<br>
