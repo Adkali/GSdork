@@ -34,7 +34,7 @@ time.sleep(1.5)
 def G_Examples():
     print(f'''
 {Red}Operators Examples{Normal}
->> site: [exmaple.com] filetype:[pdf]
+>> site: [example.com] filetype:[pdf]
 >> inurl:[cyber] inbody [threat]
 >> passwords filetype[docx] site:[example.com]
 >> allintext:hacking
